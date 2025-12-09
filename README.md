@@ -9,4 +9,4 @@ Hypixel Zombies (File 6) Changes some things around.
 MD PACK (File 7) Turns Gold horse armor into N from murder drones. Also has N dogs.
 
 
-[EaglyMC Download]([url](https://github.com/KingWither4046/EaglercraftX-1.20-file-HTML/tree/main))
+EaglyMC download at https://github.com/KingWither4046/EaglercraftX-1.20-file-HTML/tree/main
